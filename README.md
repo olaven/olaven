@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Krets](https://krets.app)
+- 🔭 I’m currently working on [Krets](https://krets.app) and [Paperpod](https://paperpod.fm)
 - 🌱 I’m currently learning anything related to startups
 - 💬 Ask me about keyboards and typescript 
 
