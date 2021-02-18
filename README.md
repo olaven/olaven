@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on [Krets](https://krets.app) and [Paperpod](https://paperpod.fm)
-- 🌱 I’m currently learning anything related to startups
-- 💬 Ask me about keyboards and typescript 
-
-[Octoring](https://octo-ring.com): [previous](https://octo-ring.com/p/olaven/prev) - [random](https://octo-ring.com/p/olaven/random) - [next](https://octo-ring.com/p/olaven/next)
+- ⚡ Recently started working [@enode](enode.io)
+- 🔭 Main side project [@paperpod](https://paperpod.fm)
+- 🌱 Learning anything related to startups
+- ❄️ Trying to get better at cycling and showshoeing
