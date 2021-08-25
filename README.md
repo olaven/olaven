@@ -1,3 +1,3 @@
-- ⚡ Recently started working [@enode](https://enode.io)
+- ⚡ Backend developer [@enode](https://enode.io)
 - 🔭 Main side project [@paperpod](https://paperpod.fm)
 - ❄️ Trying to get better at cycling and snowshoeing
