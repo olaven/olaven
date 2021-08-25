@@ -1,4 +1,3 @@
 - ⚡ Recently started working [@enode](https://enode.io)
 - 🔭 Main side project [@paperpod](https://paperpod.fm)
-- 🌱 Learning anything related to startups
 - ❄️ Trying to get better at cycling and snowshoeing
