@@ -1,3 +1,3 @@
 - ⚡ Backend developer [@enode](https://enode.io)
-- 🔭 Main side project [@paperpod](https://paperpod.fm)
+- 🔭 Fan of side projects
 - ❄️ Trying to get better at cycling and snowshoeing
