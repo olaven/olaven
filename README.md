@@ -1,3 +1,3 @@
-- ⚡ Backend developer [@enode](https://enode.io)
-- 🔭 Fan of side projects
-- ❄️ Trying to get better at cycling and snowshoeing
+- ⚡ Curious programmer 
+- 🔭 Currently spending some time on nontechnical skills  
+- ❄️ Continually trying to improve at cycling
