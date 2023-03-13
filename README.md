@@ -1,3 +1,3 @@
 - ⚡ Curious programmer 
-- 🔭 Currently spending some time on nontechnical skills  
+- 🔭 Currently jumping between projects
 - ❄️ Continually trying to improve at cycling
