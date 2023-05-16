@@ -1,3 +1,3 @@
 - ⚡ Curious programmer 
-- 🔭 Currently jumping between projects
+- 🔭 Slowly strangling throwaway society @newcycle-as
 - ❄️ Continually trying to improve at cycling
