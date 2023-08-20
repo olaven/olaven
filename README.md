@@ -1,3 +1,3 @@
 - ⚡ Curious programmer 
-- 🔭 Slowly strangling throwaway society @newcycle-as
+- 🔭 Slowly strangling throwaway society with [Tings](https://newcycle.no/)
 - ❄️ Continually trying to improve at cycling
