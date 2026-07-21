@@ -1,3 +1,3 @@
 - ⚡ Curious programmer 
-- 🔭 Throwing away throwaway society at [Tings](https://newcycle.no/)
+- 🔭 Maintaining systems as a freelance software engineer
 - ❄️ Continually trying to improve at cycling
