@@ -1,3 +1,3 @@
 - ⚡ Curious programmer 
-- 🔭 Maintaining systems as a freelance software engineer
+- 🔭 Maintaining systems as a freelance senior software engineer
 - ❄️ Continually trying to improve at cycling
